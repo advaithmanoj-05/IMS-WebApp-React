@@ -38,7 +38,7 @@ Setup:-
      * Same terminal as STEP-5
      > npm install -g serve
      > serve -s build
-     * Clicl link for port 3000 and open in browser
+     * Click link for port 3000 and open in browser
 
 CAUTION:
 1) Make sure API is running (STEP4) while the React app is running (STEP 5.1/5.2)
