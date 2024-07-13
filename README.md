@@ -23,7 +23,7 @@ Setup:-
      * Click on the generated localhost link (open in browser)
      * Keep terminal running
   5) Open new terminal in directory ims-webapp in WebApp_React folder
-     * if first command doesnt work try using npm init beforehand
+     * if first command doesnt work try using "npm init" beforehand.
      > npm install
      > npm install axios
      * Recommended STEP-5.2 instead of STEP-5.1
