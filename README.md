@@ -13,7 +13,7 @@ Setup:-
   4) Refresh Databases and check if the database "stcokmanagmentsystem" was created
 
 #2 VS Code
-  1) Once MySQL is setup create a folder and place all the files in that folder.
+  1) Once MySQL is setup create a folder and place all the files env , WebApp_FastAPI and WebApp_React in that folder.
   2) Open that folder in an IDE workspace (eg: VS code).
   3) Open a terminal in the workspace and activate venv using
      > source env/bin/activate
