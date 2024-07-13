@@ -1,0 +1,17 @@
+/WebApp_React/imsweb-app/node_modules
+
+/WebApp_React/imsweb-app/package-lock.json
+
+/WebApp_React/imsweb-app/package.json
+
+/WebApp_React/imsweb-app/README.md 
+
+/WebApp_FastAPI/__pycache__
+
+/WebApp_FastAPI/ims_enums
+
+/WebApp_FastAPI/testerapidb
+
+env
+
+
