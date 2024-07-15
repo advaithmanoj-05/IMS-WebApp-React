@@ -24,19 +24,19 @@ Node.js
      * if first command doesnt work try using "npm init" beforehand.
      > npm install
      > npm install axios
-     * Recommended STEP-5.2 instead of STEP-5.1
-4.0) Either run STEP 5.1 or 5.2
+     * Recommended STEP-4.2 instead of STEP-4.1
+4.0) Either run STEP 4.1 or 4.2
 4.1) TO RUN APP test source:
-     * in same terminal as STEP-5
+     * in same terminal as STEP-4
      > npm start
      * Click link for port 3000 and open in browser 
 4.2) TO RUN BUILD:
-     * Same terminal as STEP-5
+     * Same terminal as STEP-4
      > npm install -g serve
      > serve -s build
      * Click link for port 3000 and open in browser
 CAUTION:
-1) Make sure API is running (STEP4) while the React app is running (STEP 5.1/5.2)
+1) Make sure API is running (STEP4) while the React app is running (STEP 4.1/4.2)
    in seperate terminals.
 2) Make sure SQL server is started and running
      
